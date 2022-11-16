@@ -1,0 +1,24 @@
+.hoje {
+    color: darkred;
+}
+
+.amanha{
+    color: darkblue;
+}
+
+.sp, .rj{
+    color: seagreen;
+    text-decoration: none;
+}
+
+.underlineOff{
+    text-decoration: none;
+}
+
+.fontUp{
+    font-size: 20px;
+}
+
+body{
+    font-family: Arial;
+}
